@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    margin-top: -25px;
+    background-color: black;
+
+}
+
+.menue{
+    background-color: black;
+    width: 250px;
+    height: 100%;
+    margin-top: 0px;
+    padding-top: 25px;
+    position: fixed;
+
+}
+.menue1{
+    transform: translateY(50px);
+}
+#ppic{
+    height: 22px;
+    width: 22px;
+    border-radius: 100%;
+    padding-right: 20px;
+    transform: translateY(5px);
+}
+#picture{
+    
+    transform: translateY(-10px);
+}
+
+#logo{
+    margin-top: 35px;
+    padding-left: 15px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+.fa-house{
+    color: white;
+    width: 40px;
+    
+}
+
+.fa-magnifying-glass{
+    color: white;
+    width: 40px;
+}
+.fa-compass{
+    color: white;
+    width: 40px;
+
+}
+
+.fa-film{
+    color: white;
+    width: 40px;
+}
+.fa-paper-plane{
+    color: white;
+    width: 40px;
+}
+.fa-heart{
+    color: white;
+    width: 40px;
+}
+
+.fa-square-plus{
+    color: white;
+    width: 40px;
+}
+
+.fa-threads{
+    color: white;
+    width: 40px;
+}
+.fa-bars{
+    color: white;
+    width: 40px;
+}
+.menue ul a{
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 22px;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-left: 25px;
+    padding-top: 35px;
+}
+
+
+
+

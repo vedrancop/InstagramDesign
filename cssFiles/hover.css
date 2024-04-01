@@ -1,11 +1,7 @@
-.menuebtn :active{
-  background-color: #202020;
-  width: 210px;
-  border-radius: 15px;
-}
 
-#picture :active{
+ul li:hover a{
     background-color: #202020;
     width: 210px;
     border-radius: 15px;
+    
 }

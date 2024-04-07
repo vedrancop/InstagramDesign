@@ -21,7 +21,7 @@ body{
     height: 22px;
     width: 22px;
     border-radius: 100%;
-    padding-right: 20px;
+    margin-right: 20px;
     transform: translateY(5px);
 }
 #picture{
@@ -95,6 +95,77 @@ body{
     box-sizing: border-box;
 }
 
+.account{
+   height: 737px;
+   width: 486px;
+   background-color: black;
+   margin-left: 1050px;
+   margin-top: -110px;
+}
+
+#accountpic{
+  height: 45px;
+  width: 45px;
+  border-radius: 100%;
+
+  margin-left: 35px;
+  
+}
+#accountname{
+    font-family: sans-serif;
+    font-size: 14px;
+    transform: translateY(-40px);
+    margin-left: 90px ;
+}
+#yourname{
+    font-family: sans-serif;
+    font-size: 14px;
+    transform: translateY(-40px);
+    margin-left: 90px ;
+    color: #979797;
+}
+#swichbtn{
+    font-family: sans-serif;
+    font-size: 12.5px;
+    transform: translateY(-65px);
+    margin-left: 285px;
+    color: #5896ed;
+}
+#Suggested{
+    font-family: sans-serif;
+    font-size: 13.75px;
+    transform: translateY(-25px);
+    margin-left: 35px ;
+    color: #979797;
+}
+#Seeall{
+    font-family: sans-serif;
+    font-size: 12px;
+
+    margin-left: 285px;
+    transform: translateY(-40px);
+}
+#accfooter{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #696969;
+    margin-left: 35px;
+    transform: translateY(305px);
+}
+#accfooter1{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #696969;
+    margin-left: 35px;
+    transform: translateY(310px);
+}
+#accfooter2{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #696969;
+    margin-left: 35px;
+    transform: translateY(333px);
+}
 
 
 

@@ -6,4 +6,16 @@ ul li:hover a{
     
 }
 
-.menuebtn:hover{}
+#swichbtn:hover{
+    color: #d3dff2;
+    font-weight:549.5;
+}
+
+#Seeall:hover{
+    color: #696969;
+}
+
+#Follow1{
+    color: #d3dff2;
+    font-weight:549.5;
+}

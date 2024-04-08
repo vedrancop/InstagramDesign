@@ -1,0 +1,222 @@
+.account{
+    height: 737px;
+    width: 486px;
+    background-color: black;
+    margin-left: 1050px;
+    margin-top: -110px;
+ }
+ 
+ #accountpic{
+   height: 45px;
+   width: 45px;
+   border-radius: 100%;
+ 
+   margin-left: 35px;
+   
+ }
+ #accountname{
+     font-family: sans-serif;
+     font-size: 13px;
+     transform: translateY(-40px);
+     margin-left: 90px ;
+ }
+ #yourname{
+     font-family: sans-serif;
+     font-size: 14px;
+     transform: translateY(-40px);
+     margin-left: 90px ;
+     color: #979797;
+ }
+ #swichbtn{
+     font-family: sans-serif;
+     font-size: 12.5px;
+     transform: translateY(-65px);
+     margin-left: 285px;
+     color: #5896ed;
+ }
+ #Suggested{
+     font-family: sans-serif;
+     font-size: 13.75px;
+     transform: translateY(-25px);
+     margin-left: 35px ;
+     color: #979797;
+ }
+ 
+ #Seeall{
+     font-family: sans-serif;
+     font-size: 12px;
+ 
+     margin-left: 285px;
+     transform: translateY(-40px);
+ }
+ 
+ #sugprofilepic1{
+     height: 45px;
+     width: 45px;
+     border-radius: 100%;
+   
+     margin-left: 40px;
+     transform: translateY(-20px);
+ 
+ }
+ #sug1{
+     font-family: sans-serif;
+     font-size: 13px;
+     transform: translateY(-65px);
+     margin-left: 95px ;
+ }
+ #infosug1{
+     font-family: sans-serif;
+     font-size: 11.75px;
+     transform: translateY(-60px);
+     margin-left: 95px ;
+     color: #979797;
+ }
+ #follow1{
+    font-family: sans-serif;
+    font-size: 12.5px;
+    transform: translateY(-390px);
+    margin-left: 285px;
+    color: #5896ed;
+ }
+ 
+ #sugprofilepic2{
+     height: 45px;
+     width: 45px;
+     border-radius: 100%;
+   
+     margin-left: 40px;
+     transform: translateY(-40px);
+ }
+ 
+ #sug2{
+     font-family: sans-serif;
+     font-size: 13px;
+     transform: translateY(-80px);
+     margin-left: 95px ;
+ }
+ #infosug2{
+     font-family: sans-serif;
+     font-size: 11.75px;
+     transform: translateY(-77px);
+     margin-left: 95px ;
+     color: #979797;
+ }
+ #follow2{
+    font-family: sans-serif;
+    font-size: 12.5px;
+    transform: translateY(-345px);
+    margin-left: 285px;
+    color: #5896ed;
+ }
+ 
+ #sugprofilepic3{
+     height: 45px;
+     width: 45px;
+     border-radius: 100%;
+   
+     margin-left: 40px;
+     transform: translateY(-55px);
+ }
+ 
+ #sug3{
+     font-family: sans-serif;
+     font-size: 13px;
+     transform: translateY(-97px);
+     margin-left: 95px ;
+ }
+ #infosug3{
+     font-family: sans-serif;
+     font-size: 11.75px;
+     transform: translateY(-94px);
+     margin-left: 95px ;
+     color: #979797;
+ }
+ #follow3{ font-family: sans-serif;
+    font-size: 12.5px;
+    transform: translateY(-298px);
+    margin-left: 285px;
+    color: #5896ed;
+}
+ 
+ #sugprofilepic4{
+     height: 45px;
+     width: 45px;
+     border-radius: 100%;
+   
+     margin-left: 40px;
+     transform: translateY(-75px);
+ }
+ 
+ #sug4{
+     font-family: sans-serif;
+     font-size: 13px;
+     transform: translateY(-115px);
+     margin-left: 95px ;
+ }
+ #infosug4{
+     font-family: sans-serif;
+     font-size: 11.75px;
+     transform: translateY(-112px);
+     margin-left: 95px ;
+     color: #979797;
+ }
+ #follow4{
+    font-family: sans-serif;
+    font-size: 12.5px;
+    transform: translateY(-253px);
+    margin-left: 285px;
+    color: #5896ed;
+ }
+ 
+ #sugprofilepic5{
+     height: 45px;
+     width: 45px;
+     border-radius: 100%;
+   
+     margin-left: 40px;
+     transform: translateY(-90px);
+ }
+ 
+ #sug5{
+     font-family: sans-serif;
+     font-size: 13px;
+     transform: translateY(-132px);
+     margin-left: 95px ;
+ }
+ #infosug5{
+     font-family: sans-serif;
+     font-size: 11.75px;
+     transform: translateY(-129px);
+     margin-left: 95px ;
+     color: #979797;
+ }
+ #follow5{
+    font-family: sans-serif;
+    font-size: 12.5px;
+    transform: translateY(-208px);
+    margin-left: 285px;
+    color: #5896ed;
+ }
+ 
+ #accfooter{
+     font-family: sans-serif;
+     font-size: 12px;
+     color: #696969;
+     margin-left: 35px;
+     transform: translateY(-152px);
+ }
+ #accfooter1{
+     font-family: sans-serif;
+     font-size: 12px;
+     color: #696969;
+     margin-left: 35px;
+     transform: translateY(-146px);
+ }
+ #accfooter2{
+     font-family: sans-serif;
+     font-size: 12px;
+     color: #696969;
+     margin-left: 35px;
+     transform: translateY(-122px);
+ }
